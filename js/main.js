@@ -1,7 +1,7 @@
         const translations = {
             tr: {
                 meta_title: "Sonar Technology | Endüstriyel CNC Teknik Servis, Bakım ve Revizyon",
-                meta_desc: "Sonar Technology Makine; Türkiye genelinde endüstriyel CNC tezgahları için planlı periyodik bakım, mekanik onarım, parça entegrasyonu, uygulama mühendisliği ve teknik eğitim çözümleri sunar. 6 ay servis ve yedek parça garantisi.",
+                meta_desc: "Sonar Technology Makine; Türkiye genelinde endüstriyel CNC tezgahları için planlı periyodik bakım, mekanik onarım, parça entegrasyonu, uygulama mühendisliği ve teknik eğitim çözümleri sunar. 1 Yıl servis ve yedek parça garantisi.",
                 
                 nav_services: "Hizmetlerimiz",
                 nav_card: "Dijital Kartvizit",
@@ -17,7 +17,7 @@
                 hero_wa_cta: "WhatsApp Servis Altyapısı",
                 hero_phone_cta: "Kurumsal İletişim Hattı",
                 
-                badge_warranty_title: "6 Ay Garanti",
+                badge_warranty_title: "1 Yıl Garanti",
                 badge_warranty_desc: "Servis & Yedek Parçada",
                 badge_analysis_title: "Uygulama Analizi",
                 badge_analysis_desc: "Mühendislik Standardı",
@@ -28,8 +28,8 @@
                 
                 values_title: "Kurumsal Değerlerimiz & Mühendislik Güvencemiz",
                 values_desc: "CNC tezgahlarınız için sunduğumuz yüksek standartlar ve servis politikaları.",
-                val_1_title: "6 Ay Garanti",
-                val_1_desc: "Gerçekleştirilen tüm parça değişimleri ve onarımlar 6 ay güvencemiz altındadır.",
+                val_1_title: "1 Yıl Garanti",
+                val_1_desc: "Gerçekleştirilen tüm parça değişimleri ve onarımlar 1 Yıl güvencemiz altındadır.",
                 val_2_title: "Uzman Mühendislik",
                 val_2_desc: "Sistem analizi ve sahada teşhis işlemleri uzman mühendislerce yürütülür.",
                 val_3_title: "Maksimum Verimlilik",
@@ -136,7 +136,7 @@
                 form_message_lbl: "Teknik Detaylar / Arıza Tanımı *",
                 form_submit_btn: "Talebi Bize İlet (WhatsApp)",
                 
-                foot_desc: "Sonar Technology endüstriyel standartlar çerçevesinde; CNC tezgahlarının planlı periyodik bakımı, acil arıza onarımları ve ileri düzey teknik eğitim programları kapsamında 6 ay servis ve parça garantili mühendislik çözümleri üretmektedir.",
+                foot_desc: "Sonar Technology endüstriyel standartlar çerçevesinde; CNC tezgahlarının planlı periyodik bakımı, acil arıza onarımları ve ileri düzey teknik eğitim programları kapsamında 1 Yıl servis ve parça garantili mühendislik çözümleri üretmektedir.",
                 foot_head_1: "Hizmet Sınıfları",
                 foot_link_1: "Periyodik Bakım",
                 foot_link_2: "Arıza Onarım",
