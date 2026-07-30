@@ -159,7 +159,7 @@
             },
             en: {
                 meta_title: "Sonar Technology | Industrial CNC Service, Maintenance & Application Engineering",
-                meta_desc: "Sonar Technology Makine provides expert CNC machinery periodic maintenance, high-precision repairs, parts integration, application engineering, and technical training in Turkey. 6-month warranty on service and spare parts.",
+                meta_desc: "Sonar Technology Makine provides expert CNC machinery periodic maintenance, high-precision repairs, parts integration, application engineering, and technical training in Turkey. 1-year warranty on service and spare parts.",
                 
                 nav_services: "Our Services",
                 nav_card: "Digital Business Card",
@@ -175,7 +175,7 @@
                 hero_wa_cta: "WhatsApp Service Platform",
                 hero_phone_cta: "Corporate Hotline",
                 
-                badge_warranty_title: "6-Month Warranty",
+                badge_warranty_title: "1-year Warranty",
                 badge_warranty_desc: "On Service & Spare Parts",
                 badge_analysis_title: "Application Analysis",
                 badge_analysis_desc: "Engineering Standard",
@@ -186,8 +186,8 @@
                 
                 values_title: "Our Corporate Values & Engineering Assurance",
                 values_desc: "High standards and service policies applied to your CNC machinery.",
-                val_1_title: "6-Month Warranty",
-                val_1_desc: "All replacement parts and repair work are covered by our 6-month warranty.",
+                val_1_title: "1-year Warranty",
+                val_1_desc: "All replacement parts and repair work are covered by our 1-year warranty.",
                 val_2_title: "Expert Engineering",
                 val_2_desc: "System analysis and on-site diagnostic procedures are performed by our specialist engineers.",
                 val_3_title: "Maximum Efficiency",
@@ -294,7 +294,7 @@
                 form_message_lbl: "Technical Details / Failure Description *",
                 form_submit_btn: "Send Request to Team (WhatsApp)",
                 
-                foot_desc: "Sonar Technology operates under world-class industrial engineering standards, delivering 6-month warranted solutions for planned periodic maintenance, urgent mechanical repairs, and advanced programming training.",
+                foot_desc: "Sonar Technology operates under world-class industrial engineering standards, delivering 1-year warranted solutions for planned periodic maintenance, urgent mechanical repairs, and advanced programming training.",
                 foot_head_1: "Our Services",
                 foot_link_1: "Periodic Maintenance",
                 foot_link_2: "Troubleshooting & Repair",
