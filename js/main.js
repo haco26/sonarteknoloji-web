@@ -78,8 +78,6 @@
                 maint_time_val: "4 Saat",
                 maint_scope_label: "Bakım Kapsamı:",
                 maint_scope_val: "Genel Mekanik Kontrol, Hassas Geometrik Ölçümler, Yağlama",
-                maint_gift_title: "Bakım Kampanyası Bonus!",
-                maint_gift_desc: "Periyodik bakım sözleşmesi kapsamında planlama yapan tesislerimize **3 Adet Hava Filtresi + 1 Adet Yağ Filtresi** teknik ekibimizce ücretsiz teslim ve monte edilecektir.",
                 maint_tab_1: "Genel Kontroller",
                 maint_tab_2: "Mekanik Sistem Kontrolleri",
                 
@@ -236,8 +234,6 @@
                 maint_time_val: "4 Hours",
                 maint_scope_label: "Maintenance Scope:",
                 maint_scope_val: "General Mechanical Overhaul, Geometrical Measurement, Lubrication System Tuning",
-                maint_gift_title: "Maintenance Campaign Bonus!",
-                maint_gift_desc: "Under our periodic maintenance agreement, we will supply and install 3 Air Filters and 1 Oil Filter free of charge.",
                 maint_tab_1: "General Checks",
                 maint_tab_2: "Mechanical System Controls",
                 
